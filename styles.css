@@ -1,0 +1,9 @@
+h2 {
+colour :red
+font.size: 40px;
+}
+
+#header {
+    background-color: hotpink;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
